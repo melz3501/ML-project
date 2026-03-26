@@ -1,6 +1,6 @@
 # My Research Project Template
 
-This repository is a template to help you start your own small research project in Python. It provides a basic structure to organize your code, making it easier to manage and share your work. This guide is intended for those who are new to programming and want to learn good practices.
+This repo is a template to help you start your own small research project in Python. It provides a basic structure to organize your code, making it easier to manage and share your work. This guide is intended for those who are new to programming and want to learn good practices.
 
 ## Getting Started
 
